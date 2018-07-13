@@ -1,4 +1,4 @@
 # CarlosLlano.github.io
 
 ## KUBERNETES ##
-* [ACCESO AL API DE KUBERNETES DENTRO DE UN POD](https://carlosllano.github.io/kubernetes-api/)
+* [Acceso al api de kubernetes dentro de un pod](https://carlosllano.github.io/kubernetes-api/)
