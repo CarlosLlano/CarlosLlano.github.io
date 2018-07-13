@@ -2,7 +2,7 @@
 Recopilación de proyectos propios, pruebas de concepto y algunos trabajos realizados en la Universidad
 
 ## JAVA ##
-* [Java EE (JEE) web application](https://carlosllano.github.io/b2bGinebra/)
+* [Java EE (JEE) web application + Docker](https://carlosllano.github.io/b2bGinebra/)
 * [Firma de archivos mediante esquema de clave pública](https://carlosllano.github.io/FirmaDigital/)
 
 ## C# ##
