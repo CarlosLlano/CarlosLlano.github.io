@@ -31,7 +31,7 @@ Recopilación de proyectos propios, pruebas de concepto y algunos trabajos reali
 * [sensu + rabbitmq + redis + uchiwa + ELK Stack](https://carlosllano.github.io/so-exam3/)
 
 ## SERVICE DISCOVERY ##
-* [Descubrimiento de servicio con Consul](https://carlosllano.github.io/so-exam3/)
+* [Descubrimiento de servicio con Consul](https://carlosllano.github.io/sd-exam3/)
 
 ## LINUX ##
 * [comandos + LXC (Linux Containers)](https://carlosllano.github.io/so-exam1/)
