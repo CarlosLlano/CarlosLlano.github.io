@@ -28,7 +28,7 @@ Recopilación de proyectos propios, pruebas de concepto y algunos trabajos reali
 * [Logs de httpd](https://carlosllano.github.io/sd-exam2/)
 
 ## MONITOREO DE INFRAESTRUCTURA
-* [sensu + rabbitmq + redis + uchiwa + ELK Stack](https://carlosllano.github.io/so-exam3/)
+* [sensu + rabbitmq + redis + uchiwa + Slack + ELK Stack](https://carlosllano.github.io/so-exam3/)
 
 ## SERVICE DISCOVERY ##
 * [Descubrimiento de servicio con Consul](https://carlosllano.github.io/sd-exam3/)
