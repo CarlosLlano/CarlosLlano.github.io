@@ -15,8 +15,8 @@ Recopilación de proyectos propios, pruebas de concepto y algunos trabajos reali
 * [macro para realizar pronosticos de demanda](https://www.youtube.com/watch?v=W7Zu8kcANko)
 
 ## KUBERNETES ##
-* [Acceso al api de kubernetes dentro de un pod](https://carlosllano.github.io/kubernetes-api/)
 * [Introducción a Kubernetes](https://carlosllano.github.io/sd-project/)
+* [Acceso al api de kubernetes dentro de un pod](https://carlosllano.github.io/kubernetes-api/)
 
 ## VAGRANT + CHEF ##
 * [mariadb + httpd + haproxy](https://carlosllano.github.io/sd-workshop1/)
