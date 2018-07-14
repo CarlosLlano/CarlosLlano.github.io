@@ -1,7 +1,7 @@
 Para mayor información:
 
 
-***Linkedin:*** *https://www.linkedin.com/in/carlosllanolozano/*
+***Linkedin:*** *[https://www.linkedin.com/in/carlosllanolozano/](https://carlosllano.github.io/b2bGinebra/)*
 
 
 ***Email:*** *carlos_eduardo_llano@hotmail.com*
