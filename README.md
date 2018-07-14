@@ -15,7 +15,7 @@ Para mayor información:
 * [Gramática en FNC y algoritmo CYK](https://carlosllano.github.io/GramaticaFNC/)
 
 ## PYTHON ##
-* [Python + Swagger](https://carlosllano.github.io/so-exam2/)
+* [Python + Flask + Swagger](https://carlosllano.github.io/so-exam2/)
 
 ## VISUAL BASIC ##
 * [macro para realizar pronosticos de demanda](https://www.youtube.com/watch?v=W7Zu8kcANko)
