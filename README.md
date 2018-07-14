@@ -1,5 +1,11 @@
-# Portafolio
-Recopilación de proyectos propios, pruebas de concepto y algunos trabajos realizados en la Universidad
+Para mayor información:
+
+
+***Linkedin:*** *https://www.linkedin.com/in/carlosllanolozano/*
+
+
+***Email:*** *carlos_eduardo_llano@hotmail.com*
+
 
 ## JAVA ##
 * [Java EE (JEE) web application + Docker](https://carlosllano.github.io/b2bGinebra/)
