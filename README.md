@@ -36,7 +36,7 @@ Para mayor información:
 ## MONITOREO DE INFRAESTRUCTURA
 * [sensu + rabbitmq + redis + uchiwa + Slack + ELK Stack](https://carlosllano.github.io/so-exam3/)
 
-## SERVICE DISCOVERY ##
+## DOCKER ##
 * [Descubrimiento de servicio con Consul](https://carlosllano.github.io/sd-exam3/)
 
 ## LINUX ##
