@@ -47,4 +47,4 @@ Para mayor información:
 * [Acceso al api de kubernetes dentro de un pod](https://carlosllano.github.io/kubernetes-api/)
 
 ## REACTJS ##
-* [Portafolio de proyectos](https://carlosllano.github.io/my-portfolio/)
+* [Portafolio de proyectos](https://github.com/CarlosLlano/my-portfolio)
