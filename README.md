@@ -9,7 +9,7 @@ Para mayor información:
 
 ___
 
-Beta version: https://carlosllano.github.io/my-portfolio/work.html
+Beta version: *[https://carlosllano.github.io/my-portfolio/work.html](https://carlosllano.github.io/my-portfolio/work.html)*
 ___
 
 
