@@ -6,7 +6,7 @@
 
 ***Email:*** *carlos_eduardo_llano@hotmail.com*
 
-Beta version: *[https://carlosllano.github.io/my-portfolio/work.html](https://carlosllano.github.io/my-portfolio/work.html)*
+*Beta version:* *[https://carlosllano.github.io/my-portfolio/work.html](https://carlosllano.github.io/my-portfolio/work.html)*
 
 
 ## JAVA ##
