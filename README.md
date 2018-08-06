@@ -7,6 +7,11 @@ Para mayor información:
 ***Email:*** *carlos_eduardo_llano@hotmail.com*
 
 
+___
+Beta version: https://carlosllano.github.io/my-portfolio/work.html
+___
+
+
 ## JAVA ##
 * [Java EE (JEE) web application + Docker](https://carlosllano.github.io/b2bGinebra/)
 * [Firma de archivos mediante esquema de clave pública](https://carlosllano.github.io/FirmaDigital/)
