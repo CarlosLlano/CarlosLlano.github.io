@@ -25,6 +25,7 @@
 ## KUBERNETES ##
 * [Introducción a Kubernetes](https://carlosllano.github.io/sd-project/)
 * [Acceso al api de kubernetes dentro de un pod](https://carlosllano.github.io/kubernetes-api/)
+* [MySQL Cluster en Kubernetes](https://carlosllano.github.io/k8s-mysql-replicas/)
 
 ## CONFIGURATION MANAGEMENT
 * [Demo Ansible](https://carlosllano.github.io/Ansible/)
@@ -52,6 +53,7 @@
 * [Acceso a IBM Object Storage sin token temporal](https://carlosllano.github.io/IBMObjectStorage/)
 * [Acceso al api de kubernetes dentro de un pod](https://carlosllano.github.io/kubernetes-api/)
 * [Demo Terraform con IBM provider](https://carlosllano.github.io/Terraform/)
+* [MySQL Cluster en Kubernetes](https://carlosllano.github.io/k8s-mysql-replicas/)
 
 ## REACTJS ##
 * [Portafolio de proyectos](https://carlosllano.github.io/my-portfolio/index.html)
