@@ -28,5 +28,5 @@
     "project" : "projectTest",
     "costCenter" : "costCenterTest"
   }],
-  "nextPageToken": "asdfghjklqwertyuiop1234567890zxcvbnm"
+  "nextPageToken": null
 }
